@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 
 function Display({
   pokeData,
@@ -19,7 +19,6 @@ function Display({
   const [isShiny, setIsShiny] = useState(false);
 
   let currentPokeName = pokeData.name;
-  console.log(types);
   return (
     <>
       <div>

@@ -92,6 +92,7 @@ body a {
   font-family: monospace;
   display: block;
   width: 100px;
+  height: 18px;
   align-self: center;
   margin: .4rem 0;
   border: 1px solid transparent;
@@ -135,7 +136,7 @@ body a {
   margin-bottom: 2.5rem;
   grid-row-gap: 1rem;
   grid-column-gap: 0rem;
-  width: 280px;
+  width: 300px;
   transition: all .3s;
 }
 

@@ -83,7 +83,7 @@ function App() {
       {isLoading ? (
         <div className="pokeBallImgContainer">
           Loading...
-          <img id="pokeBallImg" src={PokeBall} />
+          <img id="pokeBallImg" src={PokeBall} alt='Poke Ball' />
         </div>
       ) : null}
     </div>
