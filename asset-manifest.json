@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AndrewJacobVlietstra/poke-app/static/css/main.19439397.chunk.css",
+    "main.js": "/AndrewJacobVlietstra/poke-app/static/js/main.aeabae97.chunk.js",
+    "main.js.map": "/AndrewJacobVlietstra/poke-app/static/js/main.aeabae97.chunk.js.map",
+    "runtime-main.js": "/AndrewJacobVlietstra/poke-app/static/js/runtime-main.0abc24b3.js",
+    "runtime-main.js.map": "/AndrewJacobVlietstra/poke-app/static/js/runtime-main.0abc24b3.js.map",
+    "static/js/2.77f7b262.chunk.js": "/AndrewJacobVlietstra/poke-app/static/js/2.77f7b262.chunk.js",
+    "static/js/2.77f7b262.chunk.js.map": "/AndrewJacobVlietstra/poke-app/static/js/2.77f7b262.chunk.js.map",
+    "index.html": "/AndrewJacobVlietstra/poke-app/index.html",
+    "static/css/main.19439397.chunk.css.map": "/AndrewJacobVlietstra/poke-app/static/css/main.19439397.chunk.css.map",
+    "static/js/2.77f7b262.chunk.js.LICENSE.txt": "/AndrewJacobVlietstra/poke-app/static/js/2.77f7b262.chunk.js.LICENSE.txt",
+    "static/media/pokeball.8956d521.png": "/AndrewJacobVlietstra/poke-app/static/media/pokeball.8956d521.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0abc24b3.js",
+    "static/js/2.77f7b262.chunk.js",
+    "static/css/main.19439397.chunk.css",
+    "static/js/main.aeabae97.chunk.js"
+  ]
+}
