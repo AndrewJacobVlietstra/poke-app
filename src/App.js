@@ -81,10 +81,10 @@ function App() {
         handleNext={handleNext}
       />
       {isLoading ? (
-        <p>
+        <div className="pokeBallImgContainer">
           Loading...
           <img id="pokeBallImg" src={PokeBall} />
-        </p>
+        </div>
       ) : null}
     </div>
   );

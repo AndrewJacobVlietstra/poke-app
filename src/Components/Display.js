@@ -19,6 +19,7 @@ function Display({
   const [isShiny, setIsShiny] = useState(false);
 
   let currentPokeName = pokeData.name;
+  console.log(types);
   return (
     <>
       <div>
